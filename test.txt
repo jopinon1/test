@@ -1,4 +1,8 @@
-test.txt
+git add .
+git commit -m "descripcion"
 
+git push
 
-cambio 2
+// para jalar codigo
+git pull
+
