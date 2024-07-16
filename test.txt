@@ -3,6 +3,8 @@ git commit -m "descripcion"
 
 git push
 
+git push --force // no lo uses
+
 // para jalar codigo
 git pull
 
